@@ -2,7 +2,6 @@
 #include <fstream>
 #include <vector>
 #include <string>
-#include <cctype>
 #include <algorithm>
 
 //1. Read the candidate numbers from the file:
